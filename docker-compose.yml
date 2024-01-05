@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : riyanuddin/my-note-app:latest
+     image : riyanuddin/riyanuddin
      ports :
          - "8000:8000"
